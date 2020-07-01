@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.vidyamantra.cmoodleapp204" version="3.8.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Gacep GH</name>
+<widget id="com.vidyamantra.cmoodleapp205" version="3.8.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>UNEMI VIRTUAL</name>
     <description>
-	   This is an official Ghana Agric Colleges E-Learning Platform (GACEP) mobile application.
+	   Ahora puedes acceder a tu Universidad con un simple 'toque' en la pantalla de tu celular y disponer de toda la información que necesitas para tu formación académica. #SomosUNEMI #LaUniversidadEnLíneaDelEcuador
 	</description>
     <author email="sales@vidyamantra.com" href="https://www.keytoschool.com/moodle-mobile-app/">Vidya Mantra EduSystems Pvt. Ltd.</author>
     <content src="index.html" />
@@ -154,7 +154,7 @@
     <plugin name="cordova-plugin-badge" spec="0.8.8" />
     <plugin name="cordova-plugin-camera" spec="4.1.0" />
     <plugin name="cordova-plugin-customurlscheme" spec="4.4.0">
-        <variable name="URL_SCHEME" value="gacepgh" />
+        <variable name="URL_SCHEME" value="unemivirtual" />
     </plugin>
     <plugin name="cordova-plugin-device" spec="2.0.3" />
     <plugin name="cordova-plugin-file" spec="6.0.2" />
