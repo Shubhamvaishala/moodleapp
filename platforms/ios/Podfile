@@ -2,7 +2,7 @@
 
 platform :ios, '10.0'
 
-target 'Unach Virtual' do
-	project 'Unach Virtual.xcodeproj'
+target 'iBerry Live' do
+	project 'iBerry Live.xcodeproj'
 	pod 'FirebaseMessaging', '~> 2.0.0'
 end
