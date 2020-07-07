@@ -2,7 +2,7 @@
 
 platform :ios, '10.0'
 
-target 'iBerry Live' do
-	project 'iBerry Live.xcodeproj'
+target 'learndirect' do
+	project 'learndirect.xcodeproj'
 	pod 'FirebaseMessaging', '~> 2.0.0'
 end
