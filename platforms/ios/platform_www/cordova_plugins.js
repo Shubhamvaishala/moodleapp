@@ -446,6 +446,36 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
       ]
     },
     {
+      "id": "cordova-plugin-zip.Zip",
+      "file": "plugins/cordova-plugin-zip/zip.js",
+      "pluginId": "cordova-plugin-zip",
+      "clobbers": [
+        "zip"
+      ]
+    },
+    {
+      "id": "cordova-sqlite-storage.SQLitePlugin",
+      "file": "plugins/cordova-sqlite-storage/www/SQLitePlugin.js",
+      "pluginId": "cordova-sqlite-storage",
+      "clobbers": [
+        "SQLitePlugin"
+      ]
+    },
+    {
+      "id": "es6-promise-plugin.Promise",
+      "file": "plugins/es6-promise-plugin/www/promise.js",
+      "pluginId": "es6-promise-plugin",
+      "runs": true
+    },
+    {
+      "id": "phonegap-plugin-push.PushNotification",
+      "file": "plugins/phonegap-plugin-push/www/push.js",
+      "pluginId": "phonegap-plugin-push",
+      "clobbers": [
+        "PushNotification"
+      ]
+    },
+    {
       "id": "cordova-plugin-wkwebview-engine.ios-wkwebview-exec",
       "file": "plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview-exec.js",
       "pluginId": "cordova-plugin-wkwebview-engine",
@@ -484,36 +514,6 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
       "file": "plugins/cordova-plugin-wkwebview-file-xhr/src/www/ios/whatwg-fetch-2.0.3.js",
       "pluginId": "cordova-plugin-wkwebview-file-xhr",
       "runs": true
-    },
-    {
-      "id": "cordova-plugin-zip.Zip",
-      "file": "plugins/cordova-plugin-zip/zip.js",
-      "pluginId": "cordova-plugin-zip",
-      "clobbers": [
-        "zip"
-      ]
-    },
-    {
-      "id": "cordova-sqlite-storage.SQLitePlugin",
-      "file": "plugins/cordova-sqlite-storage/www/SQLitePlugin.js",
-      "pluginId": "cordova-sqlite-storage",
-      "clobbers": [
-        "SQLitePlugin"
-      ]
-    },
-    {
-      "id": "es6-promise-plugin.Promise",
-      "file": "plugins/es6-promise-plugin/www/promise.js",
-      "pluginId": "es6-promise-plugin",
-      "runs": true
-    },
-    {
-      "id": "phonegap-plugin-push.PushNotification",
-      "file": "plugins/phonegap-plugin-push/www/push.js",
-      "pluginId": "phonegap-plugin-push",
-      "clobbers": [
-        "PushNotification"
-      ]
     }
   ];
   module.exports.metadata = {
@@ -538,15 +538,15 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     "cordova-plugin-splashscreen": "5.0.3",
     "cordova-plugin-statusbar": "2.4.3",
     "cordova-plugin-whitelist": "1.3.4",
-    "cordova-plugin-wkwebview-engine": "1.2.1",
-    "cordova-plugin-wkwebview-file-xhr": "2.1.4",
-    "cordova-plugin-wkwebviewxhrfix": "0.1.0",
     "cordova-plugin-zip": "3.1.0",
     "cordova-sqlite-storage": "4.0.0",
     "cordova-support-google-services": "1.2.1",
     "es6-promise-plugin": "4.2.2",
     "nl.kingsquare.cordova.background-audio": "1.0.1",
     "phonegap-plugin-multidex": "1.0.0",
-    "phonegap-plugin-push": "2.2.3"
+    "phonegap-plugin-push": "2.2.3",
+    "cordova-plugin-wkwebviewxhrfix": "0.1.0",
+    "cordova-plugin-wkwebview-engine": "1.2.1",
+    "cordova-plugin-wkwebview-file-xhr": "2.1.4"
   };
 });

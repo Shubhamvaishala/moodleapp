@@ -263,108 +263,108 @@
     }
   },
   "installed_plugins": {
-    "cordova-plugin-wkwebview-engine": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
-    },
-    "cordova-plugin-wkwebviewxhrfix": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
-    },
     "com-darryncampbell-cordova-plugin-intent": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-android-support-gradle-release": {
       "ANDROID_SUPPORT_VERSION": "27.1.0",
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-clipboard": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-badge": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-camera": {
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-customurlscheme": {
       "URL_SCHEME": "moodlemobile",
       "ANDROID_SCHEME": " ",
       "ANDROID_HOST": " ",
       "ANDROID_PATHPREFIX": "/",
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-device": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-file": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-file-opener2": {
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-file-transfer": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-globalization": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-ionic-keyboard": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-local-notification": {
       "ANDROID_SUPPORT_V4_VERSION": "26.+",
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-media-capture": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-network-information": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "es6-promise-plugin": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-screen-orientation": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-statusbar": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-zip": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-sqlite-storage": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "nl.kingsquare.cordova.background-audio": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-support-google-services": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "phonegap-plugin-multidex": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "phonegap-plugin-push": {
       "ANDROID_SUPPORT_V13_VERSION": "27.+",
       "FCM_VERSION": "17.0.+",
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-geolocation": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
+    },
+    "cordova-plugin-wkwebviewxhrfix": {
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     },
     "cordova-plugin-wkwebview-file-xhr": {
-      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp203"
+      "PACKAGE_NAME": "com.vidyamantra.cmoodleapp204"
     }
   },
   "dependent_plugins": {},
@@ -834,8 +834,6 @@
     }
   ],
   "plugin_metadata": {
-    "cordova-plugin-wkwebview-engine": "1.2.1",
-    "cordova-plugin-wkwebviewxhrfix": "0.1.0",
     "com-darryncampbell-cordova-plugin-intent": "1.3.0",
     "cordova-android-support-gradle-release": "3.0.1",
     "cordova-clipboard": "1.3.0",
@@ -864,6 +862,8 @@
     "phonegap-plugin-multidex": "1.0.0",
     "phonegap-plugin-push": "2.2.3",
     "cordova-plugin-geolocation": "4.0.2",
+    "cordova-plugin-wkwebviewxhrfix": "0.1.0",
+    "cordova-plugin-wkwebview-engine": "1.2.1",
     "cordova-plugin-wkwebview-file-xhr": "2.1.4"
   }
 }

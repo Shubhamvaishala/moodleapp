@@ -465,8 +465,6 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     }
   ];
   module.exports.metadata = {
-    "cordova-plugin-wkwebview-engine": "1.2.1",
-    "cordova-plugin-wkwebviewxhrfix": "0.1.0",
     "com-darryncampbell-cordova-plugin-intent": "1.3.0",
     "cordova-android-support-gradle-release": "3.0.1",
     "cordova-clipboard": "1.3.0",
@@ -495,6 +493,8 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     "phonegap-plugin-multidex": "1.0.0",
     "phonegap-plugin-push": "2.2.3",
     "cordova-plugin-geolocation": "4.0.2",
+    "cordova-plugin-wkwebviewxhrfix": "0.1.0",
+    "cordova-plugin-wkwebview-engine": "1.2.1",
     "cordova-plugin-wkwebview-file-xhr": "2.1.4"
   };
 });

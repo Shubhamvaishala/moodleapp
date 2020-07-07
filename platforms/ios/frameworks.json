@@ -5,7 +5,7 @@
     "UserNotifications.framework": 1,
     "SystemConfiguration.framework": 1,
     "CoreTelephony.framework": 1,
-    "WebKit.framework": 2,
     "libz.dylib": 1,
-    "PushKit.framework": 1
+    "PushKit.framework": 1,
+    "WebKit.framework": 2
 }

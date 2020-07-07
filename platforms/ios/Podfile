@@ -2,7 +2,7 @@
 
 platform :ios, '10.0'
 
-target 'Hispanic Horizons' do
-	project 'Hispanic Horizons.xcodeproj'
+target 'Gacep GH' do
+	project 'Gacep GH.xcodeproj'
 	pod 'FirebaseMessaging', '~> 2.0.0'
 end
