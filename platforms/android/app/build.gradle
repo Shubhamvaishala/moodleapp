@@ -98,11 +98,11 @@ ext {
 }
 
 // PLUGIN GRADLE EXTENSIONS START
-apply from: "../cordova-android-support-gradle-release/cmoodleapp201-cordova-android-support-gradle-release.gradle"
-apply from: "../cordova-plugin-badge/cmoodleapp201-badge.gradle"
-apply from: "../cordova-plugin-local-notification/cmoodleapp201-localnotification.gradle"
-apply from: "../cordova-support-google-services/cmoodleapp201-build.gradle"
-apply from: "../phonegap-plugin-multidex/cmoodleapp201-multidex.gradle"
+apply from: "../cordova-android-support-gradle-release/cmoodleapp203-cordova-android-support-gradle-release.gradle"
+apply from: "../cordova-plugin-badge/cmoodleapp203-badge.gradle"
+apply from: "../cordova-plugin-local-notification/cmoodleapp203-localnotification.gradle"
+apply from: "../cordova-support-google-services/cmoodleapp203-build.gradle"
+apply from: "../phonegap-plugin-multidex/cmoodleapp203-multidex.gradle"
 // PLUGIN GRADLE EXTENSIONS END
 
 def hasBuildExtras1 = file('build-extras.gradle').exists()

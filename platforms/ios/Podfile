@@ -2,7 +2,7 @@
 
 platform :ios, '10.0'
 
-target 'learndirect' do
-	project 'learndirect.xcodeproj'
+target 'Hispanic Horizons' do
+	project 'Hispanic Horizons.xcodeproj'
 	pod 'FirebaseMessaging', '~> 2.0.0'
 end
